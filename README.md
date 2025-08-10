@@ -12,11 +12,11 @@
 
 📧 Email: akhil4dnpg@gmail.com
 
-🌍 Portfolio: akhil-kumar-singh-portfolio-llge.onrender.com
+🌍 Portfolio: https://akhil-kumar-singh-portfolio-llge.onrender.com
 
-🔗 LinkedIn: linkedin.com/in/akhil-kumar-singh-851802218
+🔗 LinkedIn: https://www.linkedin.com/in/akhil-kumar-singh-851802218/
 
-🧩 LeetCode: leetcode.com/u/akhil220999
+🧩 LeetCode: https://leetcode.com/u/akhil220999/
 
 ## 🛠 Tech Stack
 Languages: Java, JavaScript
